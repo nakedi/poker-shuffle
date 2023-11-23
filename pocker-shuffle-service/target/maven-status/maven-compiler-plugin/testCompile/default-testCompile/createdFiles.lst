@@ -1,0 +1,7 @@
+com/advanced/poker/domain/RankingCategoryTest.class
+com/advanced/poker/service/PockerServiceTest.class
+com/advanced/poker/domain/CardTest.class
+com/advanced/poker/service/DealServiceTest.class
+com/advanced/poker/service/ShufflerServiceTest.class
+com/advanced/poker/domain/DeckTest.class
+com/advanced/poker/service/CardDeckServiceTest.class
