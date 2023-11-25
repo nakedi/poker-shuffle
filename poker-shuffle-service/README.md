@@ -1,6 +1,6 @@
 # poker-shuffle-service
 This is a poker game shuffle program. Allows for the dealer to shuffle cards and show the player their hands after
-dealing five cards to them.
+dealing to them.
 
 To build the app you must run :
 
